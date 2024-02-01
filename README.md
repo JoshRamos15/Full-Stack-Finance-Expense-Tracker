@@ -1,4 +1,4 @@
-#Description
+Description:
 
 The Expense Tracker is a web application designed to help users manage their personal finances by tracking expenses across various categories. It allows users to add, view, modify, and delete expense records, as well as generate detailed expense reports. This project implements a secure login system, ensuring that user data is protected and private.
 Features
